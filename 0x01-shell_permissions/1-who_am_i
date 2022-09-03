@@ -1,0 +1,2 @@
+#!/bin/bash
+dd 1-who_am_i && whoami
